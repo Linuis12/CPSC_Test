@@ -8,3 +8,7 @@ Sample project for learning git
 ## Installation
 
 ## Requirements
+
+## I legit don't know what I'm doing :)
+
+## Wee
